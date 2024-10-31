@@ -113,7 +113,7 @@ I’m a dedicated engineering student specializing in **Emerging Technologies an
 ### 📊 GitHub Stats:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihabcherni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 33%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rihabcherni&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 33%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihabcherni&theme=dark&hide_border=false" style="width: 34%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihabcherni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 33%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihabcherni&theme=dark&hide_border=false" style="width: 33%;"/>
 </div>
