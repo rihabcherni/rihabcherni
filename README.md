@@ -103,6 +103,8 @@ I’m a dedicated engineering student specializing in **Emerging Technologies an
    *Platform:* React, Node.js, MongoDB  
    *Description:* Built a healthcare management system featuring AI-based wound care detection, following the Scrum methodology.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihabcherni&layout=compact&theme=tokyonight)
+
 ### 📊 GitHub Stats:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
