@@ -18,18 +18,6 @@ I’m a dedicated engineering student specializing in **Emerging Technologies an
 - **Engineering Degree in Computer Science,** ENSIT, Tunisia
 - **Bachelor's in Management Information Systems (E-business),** ESSECT, Tunisia
 
-### 🌐 Languages
-
-- **Arabic:** Native
-- **French:** Intermediate  
-- **English:** Intermediate  
-
-### 📜 Certifications
-
-- **CCNA 1 & 2** (Cisco)
-- **AWS Cloud Foundations**
-- **AWS Machine Learning Fundamentals**
-
 ### 🔧 Technologies & Tools 💻
 
 - **Programming Languages:**
