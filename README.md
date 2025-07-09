@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me 💫
 
-I’m a dedicated engineering student specializing in **Emerging Technologies and Security**. My focus areas include **mobile and web application development**, with hands-on experience in both frontend and backend technologies. I'm actively looking for a **Final Year Project (PFE) internship** to apply my skills and deepen my expertise.
+I'm a recently graduated engineering student specializing in Emerging Technologies and Security, with a strong focus on web and mobile application development. I have practical experience in both frontend and backend technologies and I’m currently looking for a job opportunity to apply my skills, contribute to impactful projects, and further develop my expertise.
 
 ### 🎓 Education
 
@@ -29,7 +29,7 @@ I’m a dedicated engineering student specializing in **Emerging Technologies an
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-- **Frontend & Web Development:**
+- **Web Development:**
   
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -41,9 +41,6 @@ I’m a dedicated engineering student specializing in **Emerging Technologies an
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
-- **Backend Development:**
-
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
