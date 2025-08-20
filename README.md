@@ -1,8 +1,19 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <h1 align="center">Hi there 👋, I'm Rihab Cherni 👩‍💻</h1>
 <p align="center">🎓 Computer Engineering Graduate | 🚀 Full Stack Developer</p>
 <p align='center'>📍 Tunis, Tunisia</p>
+
+<p align="center">
+  <a href="https://rihab-cherni.vercel.app/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/internetexplorer.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.instagram.com/rihabcherni8">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" width="40" height="40" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://rihab-cherni.vercel.app/" target="_blank">
     <i class="devicon-internet-explorer-plain" style="font-size:40px; color:black;"></i>
