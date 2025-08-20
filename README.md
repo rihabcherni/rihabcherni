@@ -2,24 +2,27 @@
 <p align="center">🎓 Computer Engineering Graduate | 🚀 Full Stack Developer</p>
 <p align='center'>📍 Tunis, Tunisia</p>
 
-<p align='center'>
+<p align="center">
   <a href="https://rihab-cherni.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rihabcherni8">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rihab.cherni.161/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rihabcherni235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
+  <a href="https://www.instagram.com/rihabcherni8">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/rihab.cherni.161/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:rihabcherni235@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <hr>
 
 ### 👩‍💻 About Me 💫
