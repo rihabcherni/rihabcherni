@@ -3,10 +3,21 @@
 <p align='center'>📍 Tunis, Tunisia</p>
 
 <p align='center'>
-  <a href="https://www.instagram.com/rihabcherni8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rihab.cherni.161/"><img src="https://img.shields.io/badge/facebook-%230077FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rihabcherni235@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rihab-cherni.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/rihabcherni8">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/rihab.cherni.161/">
+    <img src="https://img.shields.io/badge/facebook-%230077FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rihabcherni235@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
