@@ -1,26 +1,28 @@
 <h1 align="center">Hi there 👋, I'm Rihab Cherni 👩‍💻</h1>
 <p align="center">🎓 Computer Engineering Graduate | 🚀 Full Stack Developer</p>
 <p align='center'>📍 Tunis, Tunisia</p>
-
 <p align="center">
-  <a href="https://rihab-cherni.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  <a href="https://rihab-cherni.vercel.app/" target="_blank">
+    <i class="devicon-internet-explorer-plain" style="font-size:40px; color:black;"></i>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/rihabcherni8">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rihab.cherni.161/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" alt="Facebook" />
+  <a href="https://www.instagram.com/rihabcherni8" target="_blank">
+    <i class="devicon-instagram-plain" style="font-size:40px; color:#E4405F;"></i>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:rihabcherni235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/" target="_blank">
+    <i class="devicon-linkedin-plain" style="font-size:40px; color:#0A66C2;"></i>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/rihab.cherni.161/" target="_blank">
+    <i class="devicon-facebook-plain" style="font-size:40px; color:#1877F2;"></i>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:rihabcherni235@gmail.com" target="_blank">
+    <i class="devicon-google-plain" style="font-size:40px; color:#D14836;"></i>
   </a>
 </p>
+
 <hr>
 
 ### 👩‍💻 About Me 💫
