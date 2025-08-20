@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h1 align="center">Hi there 👋, I'm Rihab Cherni 👩‍💻</h1>
 <p align="center">🎓 Computer Engineering Graduate | 🚀 Full Stack Developer</p>
 <p align='center'>📍 Tunis, Tunisia</p>
