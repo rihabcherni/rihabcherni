@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Rihab Cherni 👩‍💻</h1>
-<p align="center">🎓 Computer Engineering Graduate | 🚀 Full Stack Developer</p>
-<p align='center'>📍 Tunis, Tunisia</p>
+<h1 align="center">Hi there 👋, I'm Rihab Cherni </h1>
+<p align="center">🎓 Computer Engineering Graduate | Full Stack Developer</p>
 <p align="center">
   <a href="https://rihab-cherni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
@@ -20,23 +19,23 @@
 </p>
 <hr>
 
-### 👩‍💻 About Me 💫
+### 👩‍💻 About Me 
 
 I'm a Computer Engineering graduate from ENSIT, specializing in **Emerging Technologies and Security**. Passionate about web and mobile development, artificial intelligence, and cybersecurity. I have hands-on experience in full-stack development and I'm currently seeking opportunities to contribute to innovative projects in a stimulating professional environment.
 
 ### 🎓 Education
 
-- **🎓 Engineering Degree in Computer Science** *(Emerging Technologies & Security)* - ENSIT, Tunisia (2022-2025)
-- **📚 Bachelor's in Management Information Systems** *(E-business)* - ESSECT, Tunisia (2019-2022)
-- **🏆 Mathematics Baccalaureate** - Lycée Mohamed Attia Khaznadar, Tunisia (2019)
+- **Engineering Degree in Computer Science** *(Emerging Technologies & Security)* - ENSIT, Tunisia (2022-2025)
+- **Bachelor's in Management Information Systems** *(E-business)* - ESSECT, Tunisia (2019-2022)
+- **Mathematics Baccalaureate** - Lycée Mohamed Attia Khaznadar, Tunisia (2019)
 
 ### 💼 Professional Experience
 
-- **🔧 Full Stack Developer Intern** - ADDINN Tunisia (Feb-Jun 2025)
-- **📱 Mobile Developer** - SNCFT (Jul-Aug 2024)
-- **🌐 MERN Stack Developer** - IPACT Consult Inc. (Jul-Aug 2023)
-- **💻 Full Stack Developer** - Reschool Education (Feb-Jun 2022)
-- **🎨 Frontend Developer** - DIGIT-U (Jul-Aug 2021)
+- ** Full Stack Developer Intern** - ADDINN Tunisia (Feb-Jun 2025)
+- ** Mobile Developer** - SNCFT (Jul-Aug 2024)
+- ** MERN Stack Developer** - IPACT Consult Inc. (Jul-Aug 2023)
+- ** Full Stack Developer** - Reschool Education (Feb-Jun 2022)
+- ** Frontend Developer** - DIGIT-U (Jul-Aug 2021)
 
 ### 🔧 Technologies & Tools 💻
 
@@ -98,10 +97,10 @@ I'm a Computer Engineering graduate from ENSIT, specializing in **Emerging Techn
 
 ### 🏆 Certifications
 
-- 🥇 **Scrum Fundamentals** - Scrum Study
-- 🌐 **CCNA 1, 2 & 3** - Cisco
-- ☁️ **Introduction to Cloud** - AWS Academy
-- 🤖 **Machine Learning Foundations** - AWS Academy
+- **Scrum Fundamentals** - Scrum Study
+- **CCNA 1, 2 & 3** - Cisco
+- **Introduction to Cloud** - AWS Academy
+- **Machine Learning Foundations** - AWS Academy
 
 ### 🌟 Featured Projects
 
@@ -127,10 +126,10 @@ I'm a Computer Engineering graduate from ENSIT, specializing in **Emerging Techn
 
 ### 🌐 Community Involvement
 
-- 👨‍💼 **Project Manager** - IEEE Computer Society ENSIT
-- 🤝 **Member** - Club GEEKS ENSIT
-- 📱 **Member** - Club Android ESEN Manouba
-- ❤️ **Volunteer** - Tunisian Red Crescent
+- **Project Manager** - IEEE Computer Society ENSIT
+- **Member** - Club GEEKS ENSIT
+- **Member** - Club Android ESEN Manouba
+- **Volunteer** - Tunisian Red Crescent
 
 ### 📊 GitHub Stats
 
