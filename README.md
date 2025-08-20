@@ -10,11 +10,11 @@
   <a href="https://www.instagram.com/rihabcherni8">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rihab-cherni-864558374/">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
   <a href="https://www.facebook.com/rihab.cherni.161/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
