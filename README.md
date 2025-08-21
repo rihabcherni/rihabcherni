@@ -23,21 +23,21 @@
 
 I'm a Computer Engineering graduate from ENSIT, specializing in **Emerging Technologies and Security**. Passionate about web and mobile development, artificial intelligence, and cybersecurity. I have hands-on experience in full-stack development and I'm currently seeking opportunities to contribute to innovative projects in a stimulating professional environment.
 
-### 🎓 Education
+### Education
 
 - **Engineering Degree in Computer Science** *(Emerging Technologies & Security)* - ENSIT, Tunisia (2022-2025)
 - **Bachelor's in Management Information Systems** *(E-business)* - ESSECT, Tunisia (2019-2022)
 - **Mathematics Baccalaureate** - Lycée Mohamed Attia Khaznadar, Tunisia (2019)
 
-### 💼 Professional Experience
+### Professional Experience
 
-- ** Full Stack Developer Intern** - ADDINN Tunisia (Feb-Jun 2025)
-- ** Mobile Developer** - SNCFT (Jul-Aug 2024)
-- ** MERN Stack Developer** - IPACT Consult Inc. (Jul-Aug 2023)
-- ** Full Stack Developer** - Reschool Education (Feb-Jun 2022)
-- ** Frontend Developer** - DIGIT-U (Jul-Aug 2021)
+- **Full Stack Developer Intern** - ADDINN Tunisia (Feb-Jun 2025)
+- **Mobile Developer** - SNCFT (Jul-Aug 2024)
+- **MERN Stack Developer** - IPACT Consult Inc. (Jul-Aug 2023)
+- **Full Stack Developer** - Reschool Education (Feb-Jun 2022)
+- **Frontend Developer** - DIGIT-U (Jul-Aug 2021)
 
-### 🔧 Technologies & Tools 💻
+### Technologies & Tools 
 
 **Programming Languages:**
 
@@ -95,43 +95,43 @@ I'm a Computer Engineering graduate from ENSIT, specializing in **Emerging Techn
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏆 Certifications
+### Certifications
 
 - **Scrum Fundamentals** - Scrum Study
 - **CCNA 1, 2 & 3** - Cisco
 - **Introduction to Cloud** - AWS Academy
 - **Machine Learning Foundations** - AWS Academy
 
-### 🌟 Featured Projects
+### Featured Projects
 
-#### 🔒 **AutoTest - Security Testing Automation Platform**
+#### **AutoTest - Security Testing Automation Platform**
 *Technologies:* FastAPI, Angular, PostgreSQL, Docker, WebSockets  
 *Description:* Comprehensive web application for automating functional tests, security penetration testing, and SEO analysis with real-time notifications and vulnerability reporting.
 
-#### 🚂 **Railway Freight Management Mobile App (SNCFT)**
+#### **Railway Freight Management Mobile App (SNCFT)**
 *Technologies:* Flutter, Node.js, Express.js, MongoDB, WebSockets  
 *Description:* Mobile application for managing railway freight operations including route management, resource tracking, and real-time messaging.
 
-#### 🎵 **Music Classification System**
+#### **Music Classification System**
 *Technologies:* Python, Machine Learning (SVM, VGG19, CNN), Flask, Docker  
 *Description:* AI-powered music classification system using deep learning models with Mel-spectrogram analysis and containerized deployment.
 
-#### 🏫 **Smart School IoT Solution**
+#### **Smart School IoT Solution**
 *Technologies:* Flutter, Firebase, Arduino, IoT Sensors  
 *Description:* Comprehensive IoT solution for smart schools featuring intelligent classrooms and parking management with real-time monitoring.
 
-#### ♻️ **RE-School Ecology - Smart Waste Management**
+#### **RE-School Ecology - Smart Waste Management**
 *Technologies:* React.js, Laravel, MySQL, PHP  
 *Description:* Web application for managing waste collection through smart bins in schools with route optimization and environmental awareness features.
 
-### 🌐 Community Involvement
+### Community Involvement
 
 - **Project Manager** - IEEE Computer Society ENSIT
 - **Member** - Club GEEKS ENSIT
 - **Member** - Club Android ESEN Manouba
 - **Volunteer** - Tunisian Red Crescent
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rihabcherni&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
