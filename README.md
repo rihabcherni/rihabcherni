@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rihab Cherni </h1>
 <p align="center">🎓 Computer Engineering Graduate | Full Stack Developer</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rihabcherni&label=Profile%20views&color=0e75b6&style=flat" alt="rihabcherni" /> </p>
 <p align="center">
   <a href="https://rihab-cherni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
